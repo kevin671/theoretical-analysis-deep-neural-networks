@@ -2,11 +2,14 @@
 
 This list cover a wide range of papers on theoretical analysis of neural networks.
 
-## _
+## Local Minima
 
-Data structure
+Effect of Depth and Width on Local Minima in Deep Learning
+Kenji Kawaguchi, Jiaoyang Huang, Leslie Pack Kaelbling
+https://arxiv.org/abs/1811.08150
 
 
+## 
 
 ## Universal Approximation Theorm
 
