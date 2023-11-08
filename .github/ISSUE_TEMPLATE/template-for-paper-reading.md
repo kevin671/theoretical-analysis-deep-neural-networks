@@ -13,4 +13,4 @@ assignees: ''
 
 ## What can you use yourself?
 
-## Other references to follow
+## Other references
